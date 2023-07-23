@@ -14,7 +14,13 @@ Port : 443
 Password : "lexn3tl@val!nk"
 Secure : true
 ```
-
+Hosted by @ [garvv.me](https://garvverma.me)
+```bash
+Host : lk.garv.cloud
+Port : 1100
+Password : "trazhub"
+Secure : true
+```
 Hosted by @ [Draxler#9555](https://status.horizxon.studio/)
 ```bash
 Host : ssl.horizxon.studio
